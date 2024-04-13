@@ -16,3 +16,5 @@ This project implements a PPE (Personal Protective Equipment) violation detectio
    cd ppe-violation-detection
    pip install -r requirements.txt
 3. Run app
+      ```bash
+   Flask run app.py
